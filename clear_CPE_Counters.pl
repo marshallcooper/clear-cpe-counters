@@ -16,10 +16,10 @@ sub serial {
     print "\n";
   }
 };
-sub t1;
 sub dsl {
   foreach my $i (1..$numberOfPairs) {
   print "clear counters $serviceType 1/0/$i\n";
+  print "\n";
   }
 };
 
