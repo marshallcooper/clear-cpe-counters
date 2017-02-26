@@ -1,2 +1,2 @@
 # clear-cpe-counters
-Simple script to clear counters on Adtran and Cisco CPE's
+Simple Perl script to generate configuration to quickly clear counters on Adtran and Cisco CPE's
